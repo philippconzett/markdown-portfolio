@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+My favorite drinks:
+[x] \(Red | White | Rosé) Wine
+[x] Gin Tonic
+[x] Did I mention Red Wine?

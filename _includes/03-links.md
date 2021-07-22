@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+To learn more about me, see my [GitHub account page](https://github.com/philippconzett)!
